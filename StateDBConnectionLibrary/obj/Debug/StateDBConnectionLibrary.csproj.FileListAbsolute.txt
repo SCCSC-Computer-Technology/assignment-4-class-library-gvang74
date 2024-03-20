@@ -1,0 +1,8 @@
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\obj\Debug\StateDBConnectionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\bin\Debug\50statesDB.mdf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\bin\Debug\50statesDB_log.ldf
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\bin\Debug\StateDBConnectionLibrary.dll.config
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\bin\Debug\StateDBConnectionLibrary.dll
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\bin\Debug\StateDBConnectionLibrary.pdb
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\obj\Debug\StateDBConnectionLibrary.dll
+C:\Users\gong_\Desktop\2024SP - CPT 206 - A80S - Adv Event-Driven Program\gvang_CPT_206_StateApp2\StateDBConnectionLibrary\obj\Debug\StateDBConnectionLibrary.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StatesDataBabse" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\StatesDataBabse.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="StateDBConnectionLibrary.Properties.Settings" SettingsPropertyName="StatesDataBabseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.StateTable" Member="StateTables">
+    <Type Name="StateTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="StateName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StateCapital" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StatePopulation" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="StateLargestCity" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StateBird" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StateFlower" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="StateColor" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="StateFlagInfo" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="StateMedianIncome" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="OveralWorkforce" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="[JobPosting ]" Member="JobPosting_" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
